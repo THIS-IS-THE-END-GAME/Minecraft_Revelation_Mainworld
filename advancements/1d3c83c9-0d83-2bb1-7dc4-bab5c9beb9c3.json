@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-28 03:06:43 +0900"
@@ -164,6 +170,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2019-07-28 01:28:53 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
     },
     "done": true
   },
@@ -272,6 +284,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-07-28 04:18:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
     },
     "done": true
   },
@@ -394,6 +412,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2019-07-28 02:58:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
     },
     "done": true
   },
@@ -535,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2019-07-29 02:51:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2019-07-28 01:32:27 +0900"
@@ -604,6 +634,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2019-07-28 01:31:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
     },
     "done": true
   },
@@ -875,6 +911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-07-28 01:22:11 +0900"
@@ -908,6 +950,18 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2019-07-28 04:18:23 +0900"
+    },
+    "done": true
+  },
+  "buildcraftcore:gears": {
+    "criteria": {
+      "gear_stone": "2019-07-29 03:09:36 +0900"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
     },
     "done": true
   },
@@ -1025,6 +1079,12 @@
     },
     "done": true
   },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2019-07-29 02:30:18 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2019-07-28 02:16:04 +0900"
@@ -1052,6 +1112,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-28 03:06:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
     },
     "done": true
   },
@@ -1139,6 +1205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2019-07-28 02:58:47 +0900"
@@ -1148,6 +1220,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-07-28 02:11:46 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
     },
     "done": true
   },
@@ -1260,6 +1338,12 @@
     },
     "done": true
   },
+  "enderio:gears/g2_stone_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2019-07-29 03:09:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2019-07-28 03:26:33 +0900"
@@ -1275,6 +1359,12 @@
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_gravel": "2019-07-28 01:31:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
     },
     "done": true
   },
@@ -1503,6 +1593,18 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2019-07-28 03:26:33 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2019-07-29 02:21:56 +0900"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2019-07-29 02:29:39 +0900"
     },
     "done": true
   },
