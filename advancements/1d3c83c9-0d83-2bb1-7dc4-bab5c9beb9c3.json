@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2019-09-12 02:50:09 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2019-07-28 02:58:47 +0900"
@@ -636,6 +642,12 @@
       "entered_water": "2019-07-28 01:31:34 +0900"
     },
     "done": true
+  },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit2": "2019-09-12 02:51:29 +0900"
+    },
+    "done": false
   },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
@@ -1278,6 +1290,12 @@
     },
     "done": true
   },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2019-09-12 02:51:29 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-07-28 01:21:59 +0900"
@@ -1365,6 +1383,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2019-07-29 02:21:56 +0900"
+    },
+    "done": true
+  },
+  "enderioconduits:start/2_conduit_binder": {
+    "criteria": {
+      "inv_changed-enderio:conduit_binder": "2019-09-12 02:51:19 +0900"
     },
     "done": true
   },
@@ -1674,15 +1698,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
-    "criteria": {
-      "has_stonebrick": "2019-07-28 22:00:11 +0900"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2019-07-28 20:45:51 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2019-07-28 22:00:11 +0900"
     },
     "done": true
   },
