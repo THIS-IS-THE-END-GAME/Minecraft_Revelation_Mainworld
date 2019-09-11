@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/alloy/1_alloy_smelter_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2019-09-12 03:05:48 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2019-07-28 03:06:43 +0900"
@@ -513,7 +519,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "woodland": "2019-07-28 01:12:57 +0900"
+      "woodland": "2019-07-28 01:12:57 +0900",
+      "highland": "2019-09-12 03:27:36 +0900",
+      "prairie": "2019-09-12 03:59:21 +0900"
     },
     "done": false
   },
@@ -664,6 +672,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2019-07-28 01:31:30 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2019-09-12 03:51:30 +0900"
     },
     "done": true
   },
@@ -833,6 +847,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/6_coal": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2019-09-12 03:22:53 +0900"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_magic": {
     "criteria": {
       "entered_water": "2019-07-28 01:31:34 +0900"
@@ -854,6 +874,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2019-07-28 01:30:12 +0900"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/compass": {
+    "criteria": {
+      "compass": "2019-09-12 03:30:51 +0900"
     },
     "done": true
   },
@@ -958,6 +984,12 @@
       "has_black_dye": "2019-07-28 01:53:38 +0900"
     },
     "done": true
+  },
+  "enderiomachines:basics/goal/1_all_simple_get": {
+    "criteria": {
+      "inv_changed-enderio:block_simple_alloy_smelter": "2019-09-12 03:05:48 +0900"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
@@ -1296,6 +1328,14 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "calc": "2019-09-12 03:56:02 +0900",
+      "logic": "2019-09-12 03:56:02 +0900",
+      "eng": "2019-09-12 03:56:02 +0900"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2019-07-28 01:21:59 +0900"
@@ -1323,6 +1363,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2019-07-28 04:18:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2019-09-12 03:51:30 +0900"
     },
     "done": true
   },
@@ -1415,6 +1461,12 @@
       "has_iron_ingot": "2019-07-28 02:58:47 +0900"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-09-12 03:58:30 +0900"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
@@ -1653,6 +1705,12 @@
   "railcraft:tracks/root": {
     "criteria": {
       "get_sand": "2019-07-28 01:32:27 +0900"
+    },
+    "done": true
+  },
+  "enderio:start/2_simple_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2019-09-12 03:05:38 +0900"
     },
     "done": true
   },
