@@ -757,6 +757,8 @@
   },
   "enderioconduits:goals/all_conduits": {
     "criteria": {
+      "inv_changed-enderio:liquid_conduit2": "2019-09-12 23:51:42 +0900",
+      "inv_changed-enderio:liquid_conduit_pressurized2": "2019-09-12 23:55:46 +0900",
       "inv_changed-enderio:power_conduit2": "2019-09-12 02:51:29 +0900"
     },
     "done": false
@@ -899,15 +901,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick": {
-    "criteria": {
-      "has_nether_wart": "2019-09-12 19:23:55 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2019-09-12 18:35:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2019-09-12 19:23:55 +0900"
     },
     "done": true
   },
@@ -1580,6 +1582,12 @@
     },
     "done": true
   },
+  "enderioconduits:fluid/2_fluid_conduit_pressurized": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_pressurized": "2019-09-12 23:55:46 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2019-07-28 02:25:53 +0900"
@@ -1673,6 +1681,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2019-07-29 01:35:53 +0900"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2019-09-12 23:51:42 +0900"
     },
     "done": true
   },
@@ -1961,6 +1975,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2019-07-28 04:18:23 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2019-09-12 23:28:51 +0900"
     },
     "done": true
   },
